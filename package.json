@@ -51,7 +51,7 @@
 		"simple"
 	],
 	"dependencies": {
-		"confusing-browser-globals": "1.0.9"
+		"confusing-browser-globals": "1.0.10"
 	},
 	"devDependencies": {
 		"ava": "^2.3.0",
